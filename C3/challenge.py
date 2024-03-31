@@ -1,6 +1,6 @@
 import os
 
-os.chdir("C:\\Users\\Estrel\\Documents\\GitHub\\picoCTF2024\\C3")
+os.chdir("C:\\Users\\Estrel\\Documents\\GitHub\\CTF\\C3")
 
 chars = "DLSeGAGDgBNJDQJDCFSFnRBIDjgHoDFCFtHDgJpiHtGDmMAQFnRBJKkBAsTMrsPSDDnEFCFtIbEDtDCIbFCFtHTJDKerFldbFObFCFtLBFkBAAAPFnRBJGEkerFlcPgKkImHnIlATJDKbTbFOkdNnsgbnJRMFnRBNAFkBAAAbrcbTKAkOgFpOgFpOpkBAAAAAAAiClFGIPFnRBaKliCgClFGtIBAAAAAAAOgGEkImHnIl"
 
