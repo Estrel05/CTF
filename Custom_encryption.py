@@ -1,6 +1,3 @@
-from random import randint
-import sys
-
 cipher = [
     131553,
     993956,
